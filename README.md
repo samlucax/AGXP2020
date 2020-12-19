@@ -4,7 +4,7 @@
 
 <p align="center"><img src="apresentacoes/apresentacoes.png" width="100%"/></p>
 
-<p align="center">O Agilizei Cypress Conference aka AGXP foi uma conferência online com 3 dias de palestras - 15, 16 e 17 de Dezembro às 19hs - falando sobre Cypress e diversos assuntos relacionados. Foi transmitido ao vivo no Youtube, e foram 10 palestrantes convidados, mais que 7 horas de conteúdo e cerca de 500 pessoas impactadas durante o evento. </p>
+<p align="center">O Agilizei Cypress Conference aka AGXP foi uma conferência online com 3 dias de palestras - 15, 16 e 17 de Dezembro às 19hs - falando sobre Cypress e diversos assuntos relacionados. Foi transmitido ao vivo no Youtube, e foram 10 palestrantes convidados, mais de 7 horas de conteúdo e cerca de 500 pessoas impactadas durante o evento. </p>
 
 <h3 align="center">Confira os palestrantes e palestras do evento ⚡️</h3>
 
